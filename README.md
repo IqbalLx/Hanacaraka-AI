@@ -6,6 +6,7 @@ In these projects, we build a handwritten character recognition model that recog
 # How to use
 1. Go to your Kaggle profile then download your Kaggle API.
     - My Account --> Look for API section --> Create New API Token
-2. You can use the from the original source, however in this script we downloaded it and reupload it to [Google Drive](https://drive.google.com/file/d/1CvBaHE6bbLP1bpEHTYxnLM0Lio22LlB4/view?usp=sharing).
-3. Run our [baseline model](https://github.com/IqbalLx/Hanacaraka-AI/blob/master/Hanacaraka%20AI%20-%20notebook.ipynb) on Google Colab.
-4. Next, run our [improved model](https://github.com/IqbalLx/Hanacaraka-AI/blob/master/Hanacaraka%20AI%20-%20notebook%20-%20improved%20model.ipynb) on Google Colab.
+2. You can use it from the original source and modify our code then set the dataset to the original one,
+    - or, you can downloaded it from our drive. In this script we downloaded it and reupload it to [Google Drive](https://drive.google.com/file/d/1CvBaHE6bbLP1bpEHTYxnLM0Lio22LlB4/view?usp=sharing).
+3. Run our **baseline model** on Google Colab.
+4. Next, run our **improved model**.
