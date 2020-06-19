@@ -3,7 +3,8 @@ This project is our final project for Google Bangkit Academy.
 
 In these projects, we build a handwritten character recognition model that recognizes the ancient javanese alphabet (***Aksara Jawa***), based on a public dataset available on [Kaggle](https://www.kaggle.com/phiard/aksara-jawa). Thanks to [Phiard](https://www.kaggle.com/phiard) the author of the dataset. The dataset contains twenty ancient javanese alphabet characters which are, _ha_, _na_, _ca_, _ra_, _ka_, _da_, _ta_, _sa_, _wa_, _la_, _pa_, _dha_, _ja_, _ya_, _nya_, _ma_, _ga_, _ba_, _tha_, _nga_. The characters are shown in the picture below.
 
-<img align="center" src="/misc/img/javanese_alphabet.jpg">
+<img align="center" src="/misc/img/javanese_alphabet.jpg"></img>
+
 <p align="center">Figure 1. Ancient Javanese Alphabet</p>
 
 We build our baseline model based on basic Convolutional Neural Network architecture (see Figure 2.) with an additional 128 fully connected neurons layer. Our baseline model produces 92% training accuracy and 89% validation accuracy.
@@ -23,7 +24,6 @@ To the best of our knowledge, our baseline CNN model tends to overfit. In our ex
 2. Kaggle API Token
 3. Python version 3.6 or above
 4. Latest version of Tensorflow 2
-5. --
 
 # How to use
 1. Go to your Kaggle profile then download your Kaggle API.
