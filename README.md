@@ -18,6 +18,7 @@ To the best of our knowledge, our baseline CNN model tends to overfit. In our ex
 2. Kaggle API Token
 3. Python version 3.6 or above
 4. Latest version of Tensorflow 2
+5. --
 
 # How to use
 1. Go to your Kaggle profile then download your Kaggle API.
