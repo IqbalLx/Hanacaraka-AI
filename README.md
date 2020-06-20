@@ -32,5 +32,5 @@ To the best of our knowledge, our baseline CNN model tends to overfit. In our ex
     - or, you can downloaded it from our drive. 
     - In this script we downloaded it and reupload it to [Google Drive](https://drive.google.com/file/d/1CvBaHE6bbLP1bpEHTYxnLM0Lio22LlB4/view?usp=sharing).
     - The origin source are containing many folders for each version of the dataset. We already combined all version of the dataset into single training, validation, and testing folder.
-3. Run our **baseline model** on Google Colab.
-4. Next, run our **improved model**.
+3. Run our [**baseline model**](https://colab.research.google.com/github/IqbalLx/Hanacaraka-AI/blob/master/Hanacaraka%20AI%20-%20notebook.ipynb) on Google Colab.
+4. Next, run our [**improved model**](https://colab.research.google.com/github/IqbalLx/Hanacaraka-AI/blob/master/Hanacaraka%20AI%20-%20notebook%20-%20improved%20model.ipynb).
