@@ -1,3 +1,5 @@
+[![GitHub stars](https://img.shields.io/github/stars/IqbalLx/Hanacaraka-AI)](https://github.com/IqbalLx/Hanacaraka-AI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/IqbalLx/Hanacaraka-AI)](https://github.com/IqbalLx/Hanacaraka-AI/network)
 # Hanacaraka-AI
 This project is our final project for Google Bangkit Academy.
 
